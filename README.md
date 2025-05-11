@@ -58,3 +58,10 @@ Examples from the Booking Management System:
   - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
   - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
+## Use Case Diagrams.
+Use Case Diagrams are visual representations showing how users (actors) interact with a system to achieve specific tasks (use cases). These diagrams help capture system functionalities and user expectations, aiding communication between stakeholders and developers.
+- Benefits:
+  - Clarifies functional requirements.
+  - Helps in identifying system boundaries and actors.
+  - Facilitates early validation with stakeholders.
+
