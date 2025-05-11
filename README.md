@@ -12,3 +12,31 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
+## Key Activities in Requirement Analysis.
+- Requirement Gathering 🗂️
+  - Interviews: Engage stakeholders for direct insights.
+  - Surveys/Questionnaires: Collect data from a wider audience.
+  - Workshops: Collaborative sessions to gather ideas.
+  - Observation: Understand user behavior in real-world scenarios.
+  - Document Analysis: Review existing systems and documentation.
+
+- Requirement Elicitation ✍️
+  - Brainstorming: Generate ideas collectively.
+  - Focus Groups: Collect detailed input from a group of users.
+  - Prototyping: Use mockups to refine and visualize needs.
+
+- Requirement Documentation 📚
+  - Specification Document: Detailed list of all requirements.
+  = User Stories: Capture user needs from a user-centric view.
+  - Use Cases: Visual representations of user interactions.
+
+- Requirement Analysis and Modeling 📊
+  - Prioritization: Rank requirements by impact and urgency.
+  - Feasibility Analysis: Assess time, cost, and technology feasibility.
+  - Modeling: Create diagrams like ERD or DFD for clarity.
+
+- Requirement Validation ✅
+  - Review and Approval: Confirm requirements with stakeholders.
+  - Acceptance Criteria: Define measurable completion conditions.
+  - Traceability: Map each requirement through the development stages.
+ 
