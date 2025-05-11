@@ -2,8 +2,10 @@
 ## Introduction
 This repository explores the critical process of Requirement Analysis in the Software Development Life Cycle (SDLC). It includes theoretical explanations, real-world examples, and practical illustrations such as use case diagrams and acceptance criteria. The purpose of this repository is to provide a foundational guide for students, developers, and teams working on software projects — ensuring they gather, document, and validate software requirements effectively.
 
+
 ## What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
+
 
 ## Why is Requirement Analysis Important?
 - Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
@@ -11,6 +13,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - Basis for Design and Development: Provides a solid foundation for designing and developing the system.
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+
 
 ## Key Activities in Requirement Analysis.
 - Requirement Gathering 🗂️
@@ -39,6 +42,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
   - Review and Approval: Confirm requirements with stakeholders.
   - Acceptance Criteria: Define measurable completion conditions.
   - Traceability: Map each requirement through the development stages.
+
  
 ## Types of Requirements.
 ### Functional Requirements ⚙️
@@ -58,10 +62,28 @@ Examples from the Booking Management System:
   - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
   - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
+
 ## Use Case Diagrams.
 Use Case Diagrams are visual representations showing how users (actors) interact with a system to achieve specific tasks (use cases). These diagrams help capture system functionalities and user expectations, aiding communication between stakeholders and developers.
 - Benefits:
   - Clarifies functional requirements.
   - Helps in identifying system boundaries and actors.
   - Facilitates early validation with stakeholders.
+
+
+## Acceptance Criteria.
+Acceptance Criteria are pre-defined conditions that a software feature must meet to be accepted by the stakeholders. They ensure that the development output aligns with the business expectations and requirements.
+
+### Benefits of Acceptance Criteria:
+  - Ensure all parties have a clear understanding of feature requirements.
+  - Provide a basis for testing and validation.
+  - Help in maintaining quality and meeting user expectations.
+
+### Acceptance criteria example for a checkout feature:
+  - Users must be able to review booking details (property, dates, price).
+  - The system must validate the availability of selected dates before processing payment.
+  - Users must provide payment details via a secure form.
+  - Upon successful payment, a confirmation message and email are sent.
+  - System updates booking status and logs the transaction.
+  - Process must complete within 2 minutes for up to 1000 concurrent users.
 
